@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+# Dumb CMAKE Stuff
+*.txt
+*.cmake
+*.bin
+*.make
+*.c
+*.o
+cmake-build-debug/
