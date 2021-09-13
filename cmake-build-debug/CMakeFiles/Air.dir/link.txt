@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libAir.a CMakeFiles/Air.dir/library.cpp.o CMakeFiles/Air.dir/static/structure/Trie.cpp.o CMakeFiles/Air.dir/static/stream/Stream.cpp.o CMakeFiles/Air.dir/private/AirException.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libAir.a
