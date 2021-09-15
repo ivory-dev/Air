@@ -40,3 +40,6 @@
 *.c
 *.o
 cmake-build-debug/
+
+# Replit Config
+*.replit

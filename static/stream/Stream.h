@@ -24,6 +24,7 @@ template<typename T> class Stream {
     // Convert and compatibility
     Stream<T> empty(); // returns empty sequential stream - done
     Stream<T> convertToType(std::string type); // converts stream to specific type
+    Stream<T> concat(Stream<T> concatfrom, Stream<T> concatto);
 
     // Meta
     int count(); // count - done
