@@ -5,4 +5,4 @@ Air is a lightweight, versatile and easy to use C++ library, centered around Dat
 Download the latest release! Put it in your code, and go to the wiki! You'll be up and running in no time.
 
 
-© Made by Ivory. https://ivorydev.xyz
+© Made by Ivory. http://ivorydev.xyz
